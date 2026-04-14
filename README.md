@@ -1,5 +1,5 @@
 # QA Automation & AI Issue Triage 
-
+dsv
 ## Présentation du Projet
 Ce projet vise à automatiser le cycle de vie des tests QA en intégrant une intelligence artificielle pour le tri et l'analyse des signalements de bugs. L'objectif est de réduire le temps de réponse de l'équipe technique face à des incidents critiques.
 
