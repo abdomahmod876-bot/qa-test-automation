@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+//ده برنامج بسيط يطلب من المستخدم إدخال اسمه وعمره وطوله، ثم يعرض هذه المعلومات بالإضافة إلى حجم بعض أنواع البيانات في C++.
 int main() {
     string name;
     int age;
