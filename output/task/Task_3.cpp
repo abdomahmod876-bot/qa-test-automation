@@ -2,6 +2,7 @@
 using namespace std;
 
 int main() {
+    // هذا برنامج بسيط يطلب من المستخدم إدخال ثلاثة أعداد، ثم يحسب مجموعها ومتوسطها ويعرض النتيجة.
     float a, b, c;
     cout << "Enter three numbers: " << endl;
     cin >> a >> b >> c;
